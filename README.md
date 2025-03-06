@@ -1,1 +1,1 @@
-A quick little Python project
+Built in Python using NLTK, Pandas & SKLearn 
